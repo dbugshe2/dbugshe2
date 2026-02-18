@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dbugshe2 *pronounced deebugsheetoo* you can call me Maroof
 - 👀 I’m interested in crafting epic react and beautiful vue applications to solve modern problems
-- 🌱 I’m currently mastering TypeScript and creating UI libraries with Storybook
-- 💞️ I’m looking to collaborate on any Javascript/Typescript library preferably a react library
+- 🌱 I’m currently mastering Fullstack Development, Systems Architechture, and creating UI libraries.
+- 💞️ I’m looking to collaborate on any Javascript/Typescript Projects in either frontend, backend or both capacities.
 - 📫 How to reach me ... on my twitter (X) [@maroofshittu](https://x.com/maroofshittu)
