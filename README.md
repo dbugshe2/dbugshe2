@@ -3,3 +3,6 @@
 - 🌱 I’m currently mastering Fullstack Development, Systems Architechture, and creating UI libraries.
 - 💞️ I’m looking to collaborate on any Javascript/Typescript Projects in either frontend, backend or both capacities.
 - 📫 How to reach me ... on my twitter (X) [@maroofshittu](https://x.com/maroofshittu)
+
+## My Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
