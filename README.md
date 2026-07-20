@@ -5,4 +5,4 @@
 - 📫 How to reach me ... on my twitter (X) [@maroofshittu](https://x.com/maroofshittu)
 
 ## My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,aws,git,nextjs,nodejs,nestjs,prisma)](https://skillicons.dev)
